@@ -12,8 +12,6 @@
 
 **Remember to use `httpserver` to live test your webpage**
 
-In our `real-estate-listings.html` page, under the `<h4>2014</h4>` tag we added
-in the previous lesson, we should add some months in a list. In HTML, we can
 list things using the `<ul>` tag, which stands for _unordered list_, along with
 the `<li>` tag, _list item_.
 
@@ -24,7 +22,7 @@ them, we'll add `<li>` tags, each listing a single month:
 <ul>
   <li>Dec</li>
   <li>Nov</li>
-  <li>Oct</li>
+  <li>Oct tight</li>
 </ul>
 ```
 
@@ -65,8 +63,5 @@ will display a numbered list instead of bullets:
   <li>41 Cleaton Ave.</li>
 </ol>
 ```
-
-Add the above to your Listings page, save and check out your live page to see
-the difference.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-lists' title='HTML Lists'>HTML Lists</a> on Learn.co and start learning to code for free.</p>
