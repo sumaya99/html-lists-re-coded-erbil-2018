@@ -12,8 +12,6 @@
 
 **Remember to use `httpserver` to live test your webpage**
 
-In our `real-estate-listings.html` page, under the `<h4>2014</h4>` tag we added
-in the previous lesson, we should add some months in a list. In HTML, we can
 list things using the `<ul>` tag, which stands for _unordered list_, along with
 the `<li>` tag, _list item_.
 
