@@ -24,7 +24,7 @@ them, we'll add `<li>` tags, each listing a single month:
 <ul>
   <li>Dec</li>
   <li>Nov</li>
-  <li>Oct</li>
+  <li>Oct tight</li>
 </ul>
 ```
 
@@ -65,8 +65,5 @@ will display a numbered list instead of bullets:
   <li>41 Cleaton Ave.</li>
 </ol>
 ```
-
-Add the above to your Listings page, save and check out your live page to see
-the difference.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-lists' title='HTML Lists'>HTML Lists</a> on Learn.co and start learning to code for free.</p>
